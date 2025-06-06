@@ -206,6 +206,15 @@ run;
 
 
 * ----------------------------------------------------------------------------;
+* Summary statistics
+* ----------------------------------------------------------------------------;
+proc means data = work.analysis;
+	var math ela sed totalenrollment;
+run;
+
+
+
+* ----------------------------------------------------------------------------;
 * Linear regression analyses of percent of students who are socioeconomically
 * disadvantaged on distance from standard on math and ELA among high schools. Total
 * enrollment is used as the analytic weight.
