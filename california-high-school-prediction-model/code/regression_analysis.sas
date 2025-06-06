@@ -209,7 +209,7 @@ run;
 * Summary statistics
 * ----------------------------------------------------------------------------;
 proc means data = work.analysis;
-	var math ela sed totalenrollment;
+    var math ela sed totalenrollment;
 run;
 
 
