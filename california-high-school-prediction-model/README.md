@@ -13,5 +13,5 @@ This program reads data used in the California School Dashboard and performs lin
 To execute the SAS program, follow these steps:
 1. Open SAS.
 2. Load the script `regression_analysis.sas`.
-3. Edit line 235 so that the data is exported to the desired location.
+3. Edit line 244 so that the data is exported to the desired location.
 4. Run the script.
