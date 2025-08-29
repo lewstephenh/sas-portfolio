@@ -1,4 +1,4 @@
-# California High School Prediciton Model
+# California High School Analysis
 
 ## File Information
 - **Program Name:** `regression_analysis.sas`
